@@ -1,0 +1,67 @@
+[
+    {
+        "address":"Rua Mata Roma",
+        "restrictions":[],
+        "number":"65072006",
+        "city":"São Luís",
+        "longitude":-44.2501144,
+        "state":"MA",
+        "id":"65072006-23041",
+        "complement":"",
+        "latitude":-2.4860254,
+        "neighborhood":"Quintas do Calhau",
+        "blockDelivery":false
+    },
+    {
+        "address":"Conjunto ABC",
+        "restrictions":[],
+        "number":"65015530",
+        "city":"São Luís",
+        "longitude":-44.2241147,
+        "state":"MA",
+        "id":"65015530-23041",
+        "complement":"",
+        "latitude":-2.4970015,
+        "neighborhood":"Centro",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua das Acácias",
+        "restrictions":[],
+        "number":"65045010",
+        "city":"São Luís",
+        "longitude":-44.2369997,
+        "state":"MA",
+        "id":"65045010-23041",
+        "complement":"",
+        "latitude":-2.5527001,
+        "neighborhood":"Jardim Alvorada",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua dos Acapus",
+        "restrictions":[],
+        "number":"65075020",
+        "city":"São Luís",
+        "longitude":-44.2970536,
+        "state":"MA",
+        "id":"65075020-23041",
+        "complement":"",
+        "latitude":-2.5088786,
+        "neighborhood":"Renascença",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Acaraí",
+        "restrictions":[],
+        "number":"65071410",
+        "city":"São Luís",
+        "longitude":-44.2665563,
+        "state":"MA",
+        "id":"65071410-23041",
+        "complement":"",
+        "latitude":-2.4876705,
+        "neighborhood":"Calhau",
+        "blockDelivery":false
+    }
+]

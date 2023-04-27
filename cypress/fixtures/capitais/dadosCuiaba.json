@@ -1,0 +1,67 @@
+[
+    {
+        "address":"Rua Quatrocentos e Vinte",
+        "restrictions":[],
+        "number":"78088456",
+        "city":"Cuiabá",
+        "longitude":-56.0090314,
+        "state":"MT",
+        "id":"78088456-23041",
+        "complement":"",
+        "latitude":-15.6328845,
+        "neighborhood":"Tijucal",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Zulmira Canavarros",
+        "restrictions":[],
+        "number":"78005200",
+        "city":"Cuiabá",
+        "longitude":-56.0976954,
+        "state":"MT",
+        "id":"78005200-23041",
+        "complement":"",
+        "latitude":-15.5916986,
+        "neighborhood":"Centro-Norte",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Engenheiro José Hercílio Neto Santos",
+        "restrictions":[],
+        "number":"78093480",
+        "city":"Cuiabá",
+        "longitude":-55.9937154,
+        "state":"MT",
+        "id":"78093480-23041",
+        "complement":"",
+        "latitude":-15.6147788,
+        "neighborhood":"Jardim Fortaleza",
+        "blockDelivery":false
+    },
+    {
+        "address":"Travessa Elidia Moraes da Cruz",
+        "restrictions":[],
+        "number":"78098576",
+        "city":"Cuiabá",
+        "longitude":-55.9713843,
+        "state":"MT",
+        "id":"78098576-23041",
+        "complement":"(Lot Prq N Esperança I)",
+        "latitude":-15.6411076,
+        "neighborhood":"Nova Esperança",
+        "blockDelivery":false
+    },
+    {
+        "address":"Travessa Arara",
+        "restrictions":[],
+        "number":"78090472",
+        "city":"Cuiabá",
+        "longitude":-56.0445192,
+        "state":"MT",
+        "id":"78090472-23041",
+        "complement":"(Lot Res Itapajé)",
+        "latitude":-15.6338215,
+        "neighborhood":"Residencial Coxipó",
+        "blockDelivery":false
+    }
+]

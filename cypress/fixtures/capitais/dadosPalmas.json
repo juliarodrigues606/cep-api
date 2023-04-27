@@ -1,0 +1,68 @@
+[
+    {
+        "address":"Quadra ACSV SO 41",
+        "restrictions":[],
+        "number":"77015594",
+        "city":"Palmas",
+        "longitude":-48.3405378,
+        "state":"TO",
+        "id":"77015594-23041",
+        "complement":"",
+        "latitude":-10.2045566,
+        "neighborhood":"Plano Diretor Sul",
+        "blockDelivery":false
+    },
+    {
+        "address":"Praça Girassóis",
+        "restrictions":[],
+        "number":"77001002",
+        "city":"Palmas",
+        "longitude":-48.3336937,
+        "state":"TO",
+        "id":"77001002-23041",
+        "complement":"",
+        "latitude":-10.1868191,
+        "neighborhood":"Plano Diretor Norte",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rodovia TO-134",
+        "restrictions":[],
+        "number":"77060002",
+        "city":"Palmas",
+        "longitude":-48.3015888,
+        "state":"TO",
+        "id":"77060002-23041",
+        "complement":"",
+        "latitude":-10.3046607,
+        "neighborhood":"Jardim Aureny IV",
+        "blockDelivery":false
+    },
+    {
+        "address":"Quadra ARNE 53 Alameda 6",
+        "restrictions":[],
+        "number":"77006480",
+        "city":"Palmas",
+        "longitude":-48.3152718,
+        "state":"TO",
+        "id":"77006480-23041",
+        "complement":"",
+        "latitude":-10.1710851,
+        "neighborhood":"Plano Diretor Norte",
+        "blockDelivery":false
+    },
+    {
+        "address":"Quadra ACSU NO 70 Rua NS A",
+        "restrictions":[],
+        "number":"77001858",
+        "city":"Palmas",
+        "longitude":-48.3232748,
+        "state":"TO",
+        "id":"77001858-23041",
+        "complement":"",
+        "latitude":-10.1589069,
+        "neighborhood":"Plano Diretor Norte",
+        "blockDelivery":false
+    }
+
+]

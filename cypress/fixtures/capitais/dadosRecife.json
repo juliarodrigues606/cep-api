@@ -1,0 +1,67 @@
+[
+    {
+        "address":"3ª Travessa A",
+        "restrictions":[],
+        "number":"52031216",
+        "city":"Recife",
+        "longitude":-34.8798031,
+        "state":"PE",
+        "id":"52031216-23041",
+        "complement":""
+        ,"latitude":-8.0418336,
+        "neighborhood":"Campo Grande",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua A",
+        "restrictions":[],
+        "number":"51310540",
+        "city":"Recife",
+        "longitude":-34.9487621,
+        "state":"PE",
+        "id":"51310540-23041",
+        "complement":"(Vl Betel)",
+        "latitude":-8.1386491,
+        "neighborhood":"COHAB",
+        "blockDelivery":false
+    },
+    {
+        "address":"Avenida A",
+        "restrictions":[],
+        "number":"50920825",
+        "city":"Recife",
+        "longitude":-34.9683031,
+        "state":"PE",
+        "id":"50920825-23041",
+        "complement":"",
+        "latitude":-8.129123,
+        "neighborhood":"Totó",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua AA",
+        "restrictions":[],
+        "number":"50080101",
+        "city":"Recife",
+        "longitude":-34.91074,
+        "state":"PE",
+        "id":"50080101-23041",
+        "complement":"",
+        "latitude":-8.0821707,
+        "neighborhood":"Ilha Joana Bezerra",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Abadia",
+        "restrictions":[],
+        "number":"50711220",
+        "city":"Recife",
+        "longitude":-34.9194013,
+        "state":"PE",
+        "id":"50711220-23041",
+        "complement":"",
+        "latitude":-8.0476615,
+        "neighborhood":"Cordeiro",
+        "blockDelivery":false
+    }
+]

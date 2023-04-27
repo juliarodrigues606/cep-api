@@ -1,0 +1,58 @@
+[
+    {
+        "address": "Travessa Cruzeiro do Sul",
+        "number": "69900013",
+        "city": "Rio Branco",
+        "longitude": -67.8111363,
+        "state": "AC",
+        "id": "69900013-23041",
+        "latitude": -9.9789757,
+        "neighborhood": "Base",
+        "blockDelivery": false
+    },
+    {
+        "address":"Avenida Epaminondas Jácome",
+        "number":"69900034",
+        "city":"Rio Branco",
+        "longitude":-67.8106215,
+        "state":"AC",
+        "id":"69900034-23041",
+        "latitude":-9.977374099999999,
+        "neighborhood":"Base",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Floriano Peixoto",
+        "number":"69900046",
+        "city":"Rio Branco",
+        "longitude":-67.81038029999999,
+        "state":"AC",
+        "id":"69900046-23041",
+        "latitude":-9.9775932,
+        "neighborhood":"Base",
+        "blockDelivery":false
+    },
+    {
+        "address":"Avenida Epaminondas Jácome",
+        "number":"69900050",
+        "city":"Rio Branco",
+        "longitude":-67.8036747,
+        "state":"AC",
+        "id":"69900050-23041",
+        "latitude":-9.9743549,
+        "neighborhood":"Centro",
+        "blockDelivery":false
+    },
+    {
+        "address":"Travessa Tarauacá",
+        "number":"69900040",
+        "city":"Rio Branco",
+        "longitude":-67.8115066,
+        "state":"AC",
+        "id":"69900040-23041",
+        "latitude":-9.9770661,
+        "neighborhood":"Base",
+        "blockDelivery":false
+    }
+]
+  

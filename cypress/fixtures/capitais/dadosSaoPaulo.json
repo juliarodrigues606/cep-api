@@ -1,0 +1,68 @@
+[
+    {
+        "address":"Praça A Gazeta da Zona Norte",
+        "restrictions":[],
+        "number":"02012030",
+        "city":"São Paulo",
+        "longitude":-46.623627,
+        "state":"SP",
+        "id":"02012030-23041",
+        "complement":"",
+        "latitude":-23.507551,
+        "neighborhood":"Santana",
+        "blockDelivery":false
+    }, 
+    {
+        "address":"Travessa Abacate",
+        "restrictions":[],
+        "number":"02340020",
+        "city":"São Paulo",
+        "longitude":-46.6163027,
+        "state":"SP",
+        "id":"02340020-23041",
+        "complement":"",
+        "latitude":-23.446427,
+        "neighborhood":"Tucuruvi",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Abadia"
+        ,"restrictions":[],
+        "number":"08431530",
+        "city":"São Paulo",
+        "longitude":-46.4133389,
+        "state":"SP",
+        "id":"08431530-23041",
+        "complement":"",
+        "latitude":-23.5252984,
+        "neighborhood":"Parque Guaianazes",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua dos Abacateiros",
+        "restrictions":[],
+        "number":"02431010",
+        "city":"São Paulo",
+        "longitude":-46.6382334,
+        "state":"SP",
+        "id":"02431010-23041",
+        "complement":"",
+        "latitude":-23.4863619,
+        "neighborhood":"Jardim do Colégio (Zona Norte)",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Abadiânia",
+        "restrictions":[],
+        "number":"03541000",
+        "city":"São Paulo",
+        "longitude":-46.5184838,
+        "state":"SP",
+        "id":"03541000-23041",
+        "complement":"",
+        "latitude":-23.5356035,
+        "neighborhood":"Vila Guilhermina",
+        "blockDelivery":false
+    }
+
+]

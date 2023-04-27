@@ -1,0 +1,66 @@
+[
+    {
+        "address":"Avenida Santos Dumont, 1740 Loja 2",
+        "restrictions":["BLOQUEIO_RODO","BLOQUEIO_COURIER"],
+        "number":"60150973",
+        "city":"Fortaleza",
+        "longitude":-38.508436,
+        "state":"CE",
+        "id":"60150973-23041",
+        "complement":"AGF Missionárias",
+        "latitude":-3.733057,
+        "neighborhood":null,
+        "blockDelivery":true
+    },
+    {
+        "address":"Avenida 13 de Maio, 2266",
+        "restrictions":["BLOQUEIO_RODO","BLOQUEIO_COURIER"],
+        "number":"60040975",
+        "city":"Fortaleza",
+        "longitude":-38.58992756,
+        "state":"CE",
+        "id":"60040975-23041",
+        "complement":"AGF Treze de Maio",
+        "latitude":-3.723805035,
+        "neighborhood":null,
+        "blockDelivery":true
+    },
+    {
+        "address":"Avenida Washington Soares, 1321",
+        "restrictions":[],
+        "number":"60811905",
+        "city":"Fortaleza",
+        "longitude":-38.4816434,
+        "state":"CE",
+        "id":"60811905-23041",
+        "complement":"Fundação Edson Queiroz Universidade de Fortaleza - UNIFOR","latitude":-3.7690025,
+        "neighborhood":"Edson Queiroz",
+        "blockDelivery":false
+    },
+    {
+        "address":"Avenida Santos Dumont, 3665",
+        "restrictions":[],
+        "number":"60150900",
+        "city":"Fortaleza",
+        "longitude":-38.4907798,
+        "state":"CE",
+        "id":"60150900-23041",
+        "complement":"Edifício Bagatelle/Demoiselle",
+        "latitude":-3.7384186,
+        "neighborhood":"Aldeota",
+        "blockDelivery":false
+    },
+    {
+        "address":"Avenida Almirante Tamandaré, 75",
+        "restrictions":[],
+        "number":"60060913",
+        "city":"Fortaleza",
+        "longitude":-38.5189119,
+        "state":"CE",
+        "id":"60060913-23041",
+        "complement":"Gerência Regional de Serviços - GERES",
+        "latitude":-3.7195141,
+        "neighborhood":"Praia de Iracema",
+        "blockDelivery":false
+    }
+]

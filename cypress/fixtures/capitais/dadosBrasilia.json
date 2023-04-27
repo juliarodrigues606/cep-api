@@ -1,0 +1,68 @@
+[
+    {
+        "address":"Quadra CLN 103 Bloco D",
+        "restrictions":[],
+        "number":"70732540",
+        "city":"Brasília",
+        "longitude":-47.8776003,
+        "state":"DF",
+        "id":"70732540-23041",
+        "complement":"",
+        "latitude":-15.7838554,
+        "neighborhood":"Asa Norte",
+        "blockDelivery":false
+    },
+    {
+        "address":"Quadra CLS 115 Bloco A",
+        "restrictions":[],
+        "number":"70385510",
+        "city":"Brasília",
+        "longitude":-47.9236507,
+        "state":"DF",
+        "id":"70385510-23041",
+        "complement":"",
+        "latitude":-15.8313928,
+        "neighborhood":"Asa Sul",
+        "blockDelivery":false
+    },
+    {
+        "address":"Parque Ferroviário",
+        "restrictions":[],
+        "number":"70631100",
+        "city":"Brasília",
+        "longitude":-47.9499141,
+        "state":"DF",
+        "id":"70631100-23041",
+        "complement":"",
+        "latitude":-15.7603457,
+        "neighborhood":"Setor Militar Urbano",
+        "blockDelivery":false
+    },
+    {
+        "address":"Esplanada da Torre",
+        "restrictions":[],
+        "number":"70070300",
+        "city":"Brasília",
+        "longitude":-47.9132763,
+        "state":"DF",
+        "id":"70070300-23041",
+        "complement":"",
+        "latitude":-15.7843468,
+        "neighborhood":"Zona Cívico-Administrativa",
+        "blockDelivery":false
+    },
+    {
+        "address":"Quadra SHCGN 705 Bloco D",
+        "restrictions":[],
+        "number":"70730764",
+        "city":"Brasília",
+        "longitude":-47.8897529,
+        "state":"DF",
+        "id":"70730764-23041",
+        "complement":"",
+        "latitude":-15.7738803,
+        "neighborhood":"Asa Norte",
+        "blockDelivery":false
+    }
+    
+]

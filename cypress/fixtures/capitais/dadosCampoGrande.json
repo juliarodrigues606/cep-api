@@ -1,0 +1,67 @@
+[
+    {
+        "address":"Rua Abadia Mafalda Pereira Souza",
+        "restrictions":[],
+        "number":"79062320",
+        "city":"Campo Grande",
+        "longitude":-54.5736109,
+        "state":"MS",
+        "id":"79062320-23041",
+        "complement":"",
+        "latitude":-20.5100061,
+        "neighborhood":"Jardim Nossa Senhora do Perpétuo Socorro",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Abaeté",
+        "restrictions":[],
+        "number":"79097250",
+        "city":"Campo Grande",
+        "longitude":-54.6703278,
+        "state":"MS",
+        "id":"79097250-23041",
+        "complement":"",
+        "latitude":-20.5441381,
+        "neighborhood":"Jardim Tarumã",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Abaté",
+        "restrictions":[],
+        "number":"79082080",
+        "city":"Campo Grande",
+        "longitude":-54.6440158,
+        "state":"MS",
+        "id":"79082080-23041",
+        "complement":"",
+        "latitude":-20.5099738,
+        "neighborhood":"Guanandi II",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Abati",
+        "restrictions":[],
+        "number":"79065138",
+        "city":"Campo Grande",
+        "longitude":-54.5789479,
+        "state":"MS",
+        "id":"79065138-23041",
+        "complement":"",
+        "latitude":-20.5526769,
+        "neighborhood":"Vila Moreninha II",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Abatixi",
+        "restrictions":[],
+        "number":"79093340",
+        "city":"Campo Grande",
+        "longitude":-54.673333,
+        "state":"MS",
+        "id":"79093340-23041",
+        "complement":"",
+        "latitude":-20.5037233,
+        "neighborhood":"Jardim Santa Emília",
+        "blockDelivery":false
+    }
+]

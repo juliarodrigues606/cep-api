@@ -1,0 +1,57 @@
+[
+    {
+        "address":"Avenida Siqueira Campos",
+        "number":"57010003",
+        "city":"Maceió",
+        "longitude":-35.7493918,
+        "state":"AL",
+        "id":"57010003-23041",
+        "latitude":-9.6689571,
+        "neighborhood":"Prado",
+        "blockDelivery":false
+    },
+    {
+        "address":"Travessa Francisco Vieira",
+        "number":"57010460",
+        "city":"Maceió",
+        "longitude":-35.7542291,
+        "state":"AL",
+        "id":"57010460-23041",
+        "latitude":-9.6687812,
+        "neighborhood":"Trapiche da Barra",
+        "blockDelivery":false
+    },
+    {
+        "address":"1ª Travessa São Sebastião",
+        "number":"57010874",
+        "city":"Maceió",
+        "longitude":-35.7762031,
+        "state":"AL",
+        "id":"57010874-23041",
+        "latitude":-9.692888,
+        "neighborhood":"Pontal da Barra",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Antônio Ferreira Barbosa",
+        "number":"57014160",
+        "city":"Maceió",
+        "longitude":-35.7584303,
+        "state":"AL",
+        "id":"57014160-23041",
+        "latitude":-9.6611771,
+        "neighborhood":"Ponta Grossa",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Antônio Ferreira Barbosa",
+        "number":"57014160",
+        "city":"Maceió",
+        "longitude":-35.7584303,
+        "state":"AL",
+        "id":"57014160-23041",
+        "latitude":-9.6611771,
+        "neighborhood":"Ponta Grossa",
+        "blockDelivery":false
+    }
+]

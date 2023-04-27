@@ -1,0 +1,67 @@
+[
+    {
+        "address":"Rua Pôr do Sol",
+        "restrictions":[],
+        "number":"91790017",
+        "city":"Porto Alegre",
+        "longitude":-51.1380395,
+        "state":"RS",
+        "id":"91790017-23041",
+        "complement":"",
+        "latitude":-30.1477774,
+        "neighborhood":"Restinga",
+        "blockDelivery":false
+    },
+    {
+        "address":"Beco Orlando Drummond",
+        "restrictions":[],
+        "number":"91740060",
+        "city":"Porto Alegre",
+        "longitude":-51.2242857,
+        "state":"RS",
+        "id":"91740060-23041",
+        "complement":"",
+        "latitude":-30.0997946,
+        "neighborhood":"Nonoai",
+        "blockDelivery":false
+    },
+    {
+        "address":"Largo Heli Borba de Araujo",
+        "restrictions":[],
+        "number":"91780002",
+        "city":"Porto Alegre",
+        "longitude":-51.1820162,
+        "state":"RS",
+        "id":"91780002-23041",
+        "complement":"",
+        "latitude":-30.2111399,
+        "neighborhood":"Belém Novo",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua A",
+        "restrictions":[],
+        "number":"91755330",
+        "city":"Porto Alegre",
+        "longitude":-51.1947029,
+        "state":"RS",
+        "id":"91755330-23041",
+        "complement":"(Vl Nova Ipanema)",
+        "latitude":-30.1666757,
+        "neighborhood":"Aberta dos Morros",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Bento Nunes da Cunha",
+        "restrictions":[],
+        "number":"91220580",
+        "city":"Porto Alegre",
+        "longitude":-51.1349681,
+        "state":"RS",
+        "id":"91220580-23041",
+        "complement":"",
+        "latitude":-30.0182875,
+        "neighborhood":"Jardim Itu",
+        "blockDelivery":false
+    }
+]

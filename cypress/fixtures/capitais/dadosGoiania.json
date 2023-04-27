@@ -1,0 +1,68 @@
+[
+    {
+        "address":"Viela A",
+        "restrictions":[],
+        "number":"74450410",
+        "city":"Goiânia",
+        "longitude":-49.3162874,
+        "state":"GO",
+        "id":"74450410-23041",
+        "complement":"",
+        "latitude":-16.6635614,
+        "neighborhood":"Capuava",
+        "blockDelivery":false
+    },
+    {
+        "address":"Estrada A",
+        "restrictions":[],
+        "number":"74711100",
+        "city":"Goiânia",
+        "longitude":-49.2115926,
+        "state":"GO",
+        "id":"74711100-23041",
+        "complement":"",
+        "latitude":-16.6767613,
+        "neighborhood":"Chácaras Botafogo",
+        "blockDelivery":false
+    },
+    {
+        "address":"Praça A",
+        "restrictions":[],
+        "number":"74363170",
+        "city":"Goiânia",
+        "longitude":-49.32725139999999,
+        "state":"GO",
+        "id":"74363170-23041",
+        "complement":"",
+        "latitude":-16.7268439,
+        "neighborhood":"Conjunto Cachoeira Dourada",
+        "blockDelivery":false
+    },
+    {
+        "address":"Praça A",
+        "restrictions":[],
+        "number":"74870010",
+        "city":"Goiânia",
+        "longitude":-49.2415714,
+        "state":"GO",
+        "id":"74870010-23041",
+        "complement":"",
+        "latitude":-16.7102637,
+        "neighborhood":"Conjunto Fabiana",
+        "blockDelivery":false
+    },
+    {
+        "address":"Avenida A",
+        "restrictions":[],
+        "number":"74805020",
+        "city":"Goiânia",
+        "longitude":-49.24141460000001,
+        "state":"GO",
+        "id":"74805020-23041",
+        "complement":"",
+        "latitude":-16.6958795,
+        "neighborhood":"Jardim Goiás",
+        "blockDelivery":false
+    }
+
+]

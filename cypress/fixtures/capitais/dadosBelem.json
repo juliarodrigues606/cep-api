@@ -1,0 +1,67 @@
+[
+    {
+        "address":"Alameda Nércia Pinheiro",
+        "restrictions":[],
+        "number":"66812270",
+        "city":"Belém",
+        "longitude":-48.4518295,
+        "state":"PA",
+        "id":"66812270-23041",
+        "complement":"",
+        "latitude":-1.2644119,
+        "neighborhood":"Ponta Grossa (Icoaraci)",
+        "blockDelivery":false
+    },
+    {
+        "address":"Passagem A Praça é Nossa",
+        "restrictions":[],
+        "number":"66030365",
+        "city":"Belém",
+        "longitude":-48.4937213,
+        "state":"PA",
+        "id":"66030365-23041",
+        "complement":"",
+        "latitude":-1.4708282,
+        "neighborhood":"Jurunas",
+        "blockDelivery":false
+    },
+    {
+        "address":"Travessa A. Travassos",
+        "restrictions":[],
+        "number":"66843210",
+        "city":"Belém",
+        "longitude":-48.4556546,
+        "state":"PA",
+        "id":"66843210-23041",
+        "complement":"",
+        "latitude":-1.2590524,
+        "neighborhood":"Água Boa (Outeiro)",
+        "blockDelivery":false
+    },
+    {
+        "address":"Travessa Abaetetuba",
+        "restrictions":[],
+        "number":"66620030",
+        "city":"Belém",
+        "longitude":-48.462066,
+        "state":"PA",
+        "id":"66620030-23041",
+        "complement":"",
+        "latitude":-1.4007155,
+        "neighborhood":"Marambaia",
+        "blockDelivery":false
+    },
+    {
+        "address":"Vila Abel",
+        "restrictions":[],
+        "number":"66060640",
+        "city":"Belém",
+        "longitude":-48.4776738,
+        "state":"PA",
+        "id":"66060640-23041",
+        "complement":"",
+        "latitude":-1.4445641,
+        "neighborhood":"Umarizal",
+        "blockDelivery":false
+    }
+]

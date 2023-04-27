@@ -1,0 +1,67 @@
+[
+    {
+        "address":"Rua Doutor Area Leão",
+        "restrictions":[],
+        "number":"64000310",
+        "city":"Teresina",
+        "longitude":-42.81280539999999,
+        "state":"PI",
+        "id":"64000310-23041",
+        "complement":"(Zona Norte) - até 969/970",
+        "latitude":-5.081357199999999,
+        "neighborhood":"Centro",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Doutor Area Leão",
+        "restrictions":[],
+        "number":"64002410",
+        "city":"Teresina",
+        "longitude":-42.8048751,
+        "state":"PI",
+        "id":"64002410-23041",
+        "complement":"(Zona Norte) - de 971/972 a 1348/134",
+        "latitude":-5.0970188,
+        "neighborhood":"Vila Operária",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Jane Pádua Lopes",
+        "restrictions":[],
+        "number":"64048310",
+        "city":"Teresina",
+        "longitude":-42.7852851,
+        "state":"PI",
+        "id":"64048310-23041",
+        "complement":"",
+        "latitude":-5.0766792,
+        "neighborhood":"Jóquei",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Aarão Parente",
+        "restrictions":[],
+        "number":"64062080",
+        "city":"Teresina",
+        "longitude":-42.7607721,
+        "state":"PI",
+        "id":"64062080-23041",
+        "complement":"",
+        "latitude":-5.0313719,
+        "neighborhood":"Morros",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Abimael Soares da Rocha",
+        "restrictions":[],
+        "number":"64053740",
+        "city":"Teresina",
+        "longitude":-42.7568087,
+        "state":"PI",
+        "id":"64053740-23041",
+        "complement":"",
+        "latitude":-5.0690873,
+        "neighborhood":"Campestre",
+        "blockDelivery":false
+    }
+]

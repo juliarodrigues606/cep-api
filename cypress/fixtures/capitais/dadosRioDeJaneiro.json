@@ -1,0 +1,67 @@
+[
+    {
+        "address":"Rua Cristais Paulista",
+        "restrictions":[],
+        "number":"23085800",
+        "city":"Rio de Janeiro",
+        "longitude":-43.5464859,
+        "state":"RJ",
+        "id":"23085800-23041",
+        "complement":"",
+        "latitude":-22.8950578,
+        "neighborhood":"Campo Grande",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua A",
+        "restrictions":[],
+        "number":"22730080",
+        "city":"Rio de Janeiro",
+        "longitude":-43.4079926,
+        "state":"RJ",
+        "id":"22730080-23041",
+        "complement":"",
+        "latitude":-22.9628269,
+        "neighborhood":"Jacarepaguá",
+        "blockDelivery":false
+    },
+    {
+        "address":"Travessa A",
+        "restrictions":[],
+        "number":"20941190",
+        "city":"Rio de Janeiro",
+        "longitude":-43.2228436,
+        "state":"RJ",
+        "id":"20941190-23041",
+        "complement":"",
+        "latitude":-22.8998008,
+        "neighborhood":"São Cristóvão",
+        "blockDelivery":false
+    },
+    {
+        "address":"Travessa A",
+        "restrictions":["BLOQUEIO_RODO"],
+        "number":"21765380",
+        "city":"Rio de Janeiro",
+        "longitude":-43.4123172,
+        "state":"RJ",
+        "id":"21765380-23041",
+        "complement":"",
+        "latitude":-22.8865912,
+        "neighborhood":"Realengo",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Projetada A",
+        "restrictions":[],
+        "number":"23530289",
+        "city":"Rio de Janeiro",
+        "longitude":-43.7050261,
+        "state":"RJ",
+        "id":"23530289-23041",
+        "complement":"",
+        "latitude":-22.9619342,
+        "neighborhood":"Sepetiba",
+        "blockDelivery":false
+    }
+]

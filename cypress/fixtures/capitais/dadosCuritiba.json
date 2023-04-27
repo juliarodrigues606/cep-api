@@ -1,0 +1,68 @@
+[
+    {
+        "address":"Jardinete Neylor Vasconcellos de Andrade",
+        "restrictions":[],
+        "number":"80330195",
+        "city":"Curitiba",
+        "longitude":-49.3113215,
+        "state":"PR",
+        "id":"80330195-23041",
+        "complement":"",
+        "latitude":-25.4604312,
+        "neighborhood":"Santa Quitéria",
+        "blockDelivery":false
+    },
+    {
+        "address":"Largo Francisco Pirkiel",
+        "restrictions":[],
+        "number":"80610285",
+        "city":"Curitiba",
+        "longitude":-49.3007845,
+        "state":"PR",
+        "id":"80610285-23041",
+        "complement":"",
+        "latitude":-25.4749219,
+        "neighborhood":"Portão",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Maria das Neves Storrer",
+        "restrictions":[],
+        "number":"80740235",
+        "city":"Curitiba",
+        "longitude":-49.3107559,
+        "state":"PR",
+        "id":"80740235-23041",
+        "complement":"",
+        "latitude":-25.4385921,
+        "neighborhood":"Campina do Siqueira",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Antônio Ferreira do Nascimento Filho",
+        "restrictions":[],
+        "number":"81230395",
+        "city":"Curitiba",
+        "longitude":-49.34143359999999,
+        "state":"PR",
+        "id":"81230395-23041",
+        "complement":"",
+        "latitude":-25.463386,
+        "neighborhood":"Cidade Industrial",
+        "blockDelivery":false
+    },
+    {
+        "address":"Jardinete Raquel Carneiro do Amaral e Silva",
+        "restrictions":[],
+        "number":"81540225",
+        "city":"Curitiba",
+        "longitude":-49.22696759999999,
+        "state":"PR",
+        "id":"81540225-23041",
+        "complement":"",
+        "latitude":-25.4613447,
+        "neighborhood":"Jardim das Américas",
+        "blockDelivery":false
+    }
+
+]

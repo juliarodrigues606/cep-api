@@ -1,0 +1,68 @@
+[
+    {
+        "address":"Servidão Dorval Rosalino da Silva",
+        "restrictions":[],
+        "number":"88025544",
+        "city":"Florianópolis",
+        "longitude":-48.5316184,
+        "state":"SC",
+        "id":"88025544-23041",
+        "complement":"",
+        "latitude":-27.5792924,
+        "neighborhood":"Agronômica",
+        "blockDelivery":false
+    },
+    {
+        "address":"Servidão Luz do Sol",
+        "restrictions":[],
+        "number":"88058462",
+        "city":"Florianópolis",
+        "longitude":-48.4012363,
+        "state":"SC",
+        "id":"88058462-23041",
+        "complement":"",
+        "latitude":-27.4484904,
+        "neighborhood":"Ingleses do Rio Vermelho",
+        "blockDelivery":false
+    },
+    {
+        "address":"Servidão do Encanto",
+        "restrictions":[],
+        "number":"88062506",
+        "city":"Florianópolis",
+        "longitude":-48.4731693,
+        "state":"SC",
+        "id":"88062506-23041",
+        "complement":"",
+        "latitude":-27.6308646,
+        "neighborhood":"Lagoa da Conceição",
+        "blockDelivery":false
+    },
+    {
+        "address":"Caminho do Engenho",
+        "restrictions":[],
+        "number":"88058691",
+        "city":"Florianópolis",
+        "longitude":-48.39960869999999,
+        "state":"SC",
+        "id":"88058691-23041",
+        "complement":"",
+        "latitude":-27.4408967,
+        "neighborhood":"Ingleses do Rio Vermelho",
+        "blockDelivery":false
+    },
+    {
+        "address":"Servidão Abílio Vieira Filho",
+        "restrictions":[],
+        "number":"88058133",
+        "city":"Florianópolis",
+        "longitude":-48.40131400000001,
+        "state":"SC",
+        "id":"88058133-23041",
+        "complement":"",
+        "latitude":-27.4523001,
+        "neighborhood":"Ingleses do Rio Vermelho",
+        "blockDelivery":false
+    }
+
+]

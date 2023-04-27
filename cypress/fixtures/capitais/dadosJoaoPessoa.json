@@ -1,0 +1,68 @@
+[
+    {
+        "address":"Rua Cabo José Batista da Silva",
+        "restrictions":[],
+        "number":"58073326",
+        "city":"João Pessoa",
+        "longitude":-34.8486199,
+        "state":"PB",
+        "id":"58073326-23041",
+        "complement":"",
+        "latitude":-7.1633415,
+        "neighborhood":"Cidade dos Colibris",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua da Paz",
+        "restrictions":[],
+        "number":"58081067",
+        "city":"João Pessoa",
+        "longitude":-34.8951832,
+        "state":"PB",
+        "id":"58081067-23041",
+        "complement":"",
+        "latitude":-7.175479499999999,
+        "neighborhood":"Costa e Silva",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Abdias dos Santos Passos",
+        "restrictions":[],
+        "number":"58070340",
+        "city":"João Pessoa",
+        "longitude":-34.8686,
+        "state":"PB",
+        "id":"58070340-23041",
+        "complement":"",
+        "latitude":-7.1570854,
+        "neighborhood":"Varjão",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Abdias Genuíno de Lima",
+        "restrictions":[],
+        "number":"58076070",
+        "city":"João Pessoa",
+        "longitude":-34.8785587,
+        "state":"PB",
+        "id":"58076070-23041",
+        "complement":"",
+        "latitude":-7.177271699999999,
+        "neighborhood":"João Paulo II",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Abdias Gomes de Almeida",
+        "restrictions":[],
+        "number":"58042100",
+        "city":"João Pessoa",
+        "longitude":-34.87338481,
+        "state":"PB",
+        "id":"58042100-23041",
+        "complement":"",
+        "latitude":-7.14938202,
+        "neighborhood":"Tambauzinho",
+        "blockDelivery":false
+    }
+
+]

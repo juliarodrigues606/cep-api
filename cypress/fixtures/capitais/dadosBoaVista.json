@@ -1,0 +1,68 @@
+[
+    {
+        "address":"Travessa A",
+        "restrictions":[],
+        "number":"69309163",
+        "city":"Boa Vista",
+        "longitude":-60.70581739999999,
+        "state":"RR",
+        "id":"69309163-23041",
+        "complement":"",
+        "latitude":2.8223062,
+        "neighborhood":"Buritis",
+        "blockDelivery":false
+    },
+    {
+        "address":"Travessa Eustáquio Júlio de Macedo",
+        "restrictions":[],
+        "number":"69305350",
+        "city":"Boa Vista",
+        "longitude":-60.6709575,
+        "state":"RR",
+        "id":"69305350-23041",
+        "complement":"",
+        "latitude":2.8358822,
+        "neighborhood":"31 de Março",
+        "blockDelivery":false
+    },
+    {
+        "address":"Travessa José Francisco",
+        "restrictions":[],
+        "number":"69309217",
+        "city":"Boa Vista",
+        "longitude":-60.7046798,
+        "state":"RR",
+        "id":"69309217-23041",
+        "complement":"",
+        "latitude":2.8084224,
+        "neighborhood":"Buritis",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Abrilina Pena",
+        "restrictions":[],
+        "number":"69312015",
+        "city":"Boa Vista",
+        "longitude":-60.7021249,
+        "state":"RR",
+        "id":"69312015-23041",
+        "complement":"",
+        "latitude":2.8279435,
+        "neighborhood":"Jardim Floresta",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua das Acácias",
+        "restrictions":[],
+        "number":"69309370",
+        "city":"Boa Vista",
+        "longitude":-60.6973591,
+        "state":"RR",
+        "id":"69309370-23041",
+        "complement":"",
+        "latitude":2.8100324,
+        "neighborhood":"Pricumã",
+        "blockDelivery":false
+    }
+
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "address":"Estrada de Campinas",
+        "restrictions":[],
+        "number":"41270515",
+        "city":"Salvador",
+        "longitude":-38.46949,
+        "state":"BA",
+        "id":"41270515-23041",
+        "complement":"- do km 4,001 ao km 5,500",
+        "latitude":-12.923807,
+        "neighborhood":"Campinas de Pirajá",
+        "blockDelivery":false
+    },
+    {
+        "address":"Estrada de Campinas",
+        "restrictions":[],
+        "number":"40391160",
+        "city":"Salvador",
+        "longitude":-38.4745251,
+        "state":"BA",
+        "id":"40391160-23041",
+        "complement":"- lado ímpar",
+        "latitude":-12.931631,
+        "neighborhood":"São Caetano",
+        "blockDelivery":false
+    },
+    {
+        "address":"Estrada de Campinas",
+        "restrictions":[],
+        "number":"41275410",
+        "city":"Salvador",
+        "longitude":-38.46949,
+        "state":"BA",
+        "id":"41275410-23041",
+        "complement":"- até km 4,000",
+        "latitude":-12.923807,
+        "neighborhood":"Campinas de Pirajá",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Doutor Trípoli Francisco Gaudenzi",
+        "restrictions":[],
+        "number":"41343500",
+        "city":"Salvador",
+        "longitude":-38.3973511,
+        "state":"BA",
+        "id":"41343500-23041",
+        "complement":"",
+        "latitude":-12.9022531,
+        "neighborhood":"Fazenda Grande III",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua A",
+        "restrictions":[],
+        "number":"40370730",
+        "city":"Salvador",
+        "longitude":-38.4907445,
+        "state":"BA",
+        "id":"40370730-23041",
+        "complement":"",
+        "latitude":-12.9409544,
+        "neighborhood":"Liberdade",
+        "blockDelivery":false
+    }
+]

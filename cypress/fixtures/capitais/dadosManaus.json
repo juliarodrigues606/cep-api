@@ -1,0 +1,68 @@
+[
+    {
+        "address":"Avenida Professora Maria T. Monteiro",
+        "restrictions":[],
+        "number":"69043040",
+        "city":"Manaus",
+        "longitude":-60.0367337,
+        "state":"AM",
+        "id":"69043040-23041",
+        "complement":"",
+        "latitude":-3.0760558,
+        "neighborhood":"Alvorada",
+        "blockDelivery":false
+    },
+    {
+        "address":"Beco Allium",
+        "restrictions":[],
+        "number":"69060332",
+        "city":"Manaus",
+        "longitude":-59.999998,
+        "state":"AM",
+        "id":"69060332-23041",
+        "complement":"",
+        "latitude":-3.099591,
+        "neighborhood":"Aleixo",
+        "blockDelivery":false
+    },
+    {
+        "address":"Beco Rio Branco",
+        "restrictions":[],
+        "number":"69020375",
+        "city":"Manaus",
+        "longitude":-60.03985979999999,
+        "state":"AM",
+        "id":"69020375-23041",
+        "complement":"",
+        "latitude":-3.1235098,
+        "neighborhood":"Praça 14 de Janeiro",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Pindaí",
+        "restrictions":[],
+        "number":"69038250",
+        "city":"Manaus",
+        "longitude":-60.07254189999999,
+        "state":"AM",
+        "id":"69038250-23041",
+        "complement":"",
+        "latitude":-3.0688891,
+        "neighborhood":"Lírio do Vale",
+        "blockDelivery":false
+    },
+    {
+    
+        "address":"Rua Raimundo Nonato",
+        "restrictions":[],
+        "number":"69043380",
+        "city":"Manaus",
+        "longitude":-60.0393114,
+        "state":"AM",
+        "id":"69043380-23041",
+        "complement":"",
+        "latitude":-3.0790028,
+        "neighborhood":"Alvorada",
+        "blockDelivery":false
+    }
+]

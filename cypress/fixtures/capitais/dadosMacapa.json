@@ -1,0 +1,58 @@
+[
+    {
+        "address":"Avenida Feliciano Coelho",
+        "number":"68901025",
+        "city":"Macapá",
+        "longitude":-51.06955,
+        "state":"AP",
+        "id":"68901025-23041",
+        "latitude":0.0296589,
+        "neighborhood":"Trem",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Professor Tostes",
+        "number":"68901316",
+        "city":"Macapá",
+        "longitude":-51.068972,
+        "state":"AP",
+        "id":"68901316-23041",
+        "latitude":0.029343,
+        "neighborhood":"Santa Rita",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua José Trajano de Souza",
+        "number":"68901480",
+        "city":"Macapá",
+        "longitude":-51.05771650000001,
+        "state":"AP",
+        "id":"68901480-23041",
+        "latitude":0.021188,
+        "neighborhood":"Santa Inês",
+        "blockDelivery":false
+    },
+    {
+        "address":"Avenida dos Tupiniquins",
+        "number":"68902120",
+        "city":"Macapá",
+        "longitude":-51.0711286,
+        "state":"AP",
+        "id":"68902120-23041",
+        "latitude":0.0190075,
+        "neighborhood":"Beirol",
+        "blockDelivery":false
+    },
+    {
+        "address":"Avenida São Januário",
+        "number":"68902680",
+        "city":"Macapá",
+        "longitude":-51.0747623,
+        "state":"AP",
+        "id":"68902680-23041",
+        "latitude":0.0117831,
+        "neighborhood":"Muca",
+        "blockDelivery":false
+    }
+
+]

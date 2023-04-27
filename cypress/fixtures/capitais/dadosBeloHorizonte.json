@@ -1,0 +1,68 @@
+[
+    {
+        "address":"Rua Itagiba Miranda Rabelo",
+        "restrictions":[],
+        "number":"31975350",
+        "city":"Belo Horizonte",
+        "longitude":-43.8847558,
+        "state":"MG",
+        "id":"31975350-23041",
+        "complement":"",
+        "latitude":-19.8525129,
+        "neighborhood":"Jardim Vitória",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Sargento Vilmar de Oliveira",
+        "restrictions":[],
+        "number":"30590250",
+        "city":"Belo Horizonte",
+        "longitude":-43.99398679999999,
+        "state":"MG",
+        "id":"30590250-23041",
+        "complement":"",
+        "latitude":-19.9595114,
+        "neighborhood":"Betânia",
+        "blockDelivery":false
+    },
+    {
+        "address":"Beco Chapinha Três",
+        "restrictions":[],
+        "number":"30512150",
+        "city":"Belo Horizonte",
+        "longitude":-44.00041890000001,
+        "state":"MG",
+        "id":"30512150-23041",
+        "complement":"",
+        "latitude":-19.9446605,
+        "neighborhood":"Cabana do Pai Tomás",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Geraldino Heleodoro de Carvalho",
+        "restrictions":[],
+        "number":"31741371",
+        "city":"Belo Horizonte",
+        "longitude":-43.9397452,
+        "state":"MG",
+        "id":"31741371-23041",
+        "complement":"",
+        "latitude":-19.8498361,
+        "neighborhood":"São Bernardo",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Renato Társia",
+        "restrictions":[],
+        "number":"30668080",
+        "city":"Belo Horizonte",
+        "longitude":-44.0333461,
+        "state":"MG",
+        "id":"30668080-23041",
+        "complement":"",
+        "latitude":-19.9978704,
+        "neighborhood":"Castanheira (Barreiro)",
+        "blockDelivery":false
+    }
+
+]

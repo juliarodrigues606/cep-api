@@ -1,0 +1,67 @@
+[
+   {
+    "address":"Escadaria Abelardo Martins Oliveira",
+    "restrictions":[],
+    "number":"29025687",
+    "city":"Vitória",
+    "longitude":-40.3551394,
+    "state":"ES",
+    "id":"29025687-23041",
+    "complement":"",
+    "latitude":-20.3153076,
+    "neighborhood":"Caratoíra",
+    "blockDelivery":false
+    },
+    {
+        "address":"Rua Abiail do Amaral Carneiro",
+        "restrictions":[],
+        "number":"29050535",
+        "city":"Vitória",
+        "longitude":-40.2939146,
+        "state":"ES",
+        "id":"29050535-23041",
+        "complement":"",
+        "latitude":-20.3146848,
+        "neighborhood":"Enseada do Suá",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua das Acácias",
+        "restrictions":[],
+        "number":"29042390",
+        "city":"Vitória",
+        "longitude":-40.3252436,
+        "state":"ES",
+        "id":"29042390-23041",
+        "complement":"",
+        "latitude":-20.3063864,
+        "neighborhood":"Fradinhos",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua do Acordo",
+        "restrictions":[],
+        "number":"29030180",
+        "city":"Vitória",
+        "longitude":-40.3355665,
+        "state":"ES",
+        "id":"29030180-23041",
+        "complement":"",
+        "latitude":-20.2810028,
+        "neighborhood":"São Pedro",
+        "blockDelivery":false
+    },
+    {
+        "address":"Escadaria Acyr Guimarães",
+        "restrictions":[],
+        "number":"29015360",
+        "city":"Vitória",
+        "longitude":-40.3355833,
+        "state":"ES",
+        "id":"29015360-23041",
+        "complement":"",
+        "latitude":-20.3188379,
+        "neighborhood":"Centro",
+        "blockDelivery":false
+    }
+]

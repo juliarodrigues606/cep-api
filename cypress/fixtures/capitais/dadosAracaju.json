@@ -1,0 +1,67 @@
+[
+    {
+        "address":"Rua Maria de Lourdes Cruz do Nascimento",
+        "restrictions":[],
+        "number":"49090290",
+        "city":"Aracaju",
+        "longitude":-37.0981972,
+        "state":"SE",
+        "id":"49090290-23041",
+        "complement":"",
+        "latitude":-10.8976652,
+        "neighborhood":"Jardim Centenário",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Faustina Araújo Lima",
+        "restrictions":[],
+        "number":"49090520",
+        "city":"Aracaju",
+        "longitude":-37.0916527,
+        "state":"SE",
+        "id":"49090520-23041",
+        "complement":"",
+        "latitude":-10.8917889,
+        "neighborhood":"Bugio",
+        "blockDelivery":false
+    },
+    {
+        "address":"Alameda dos José Carlos Vital",
+        "restrictions":[],
+        "number":"49038050",
+        "city":"Aracaju",
+        "longitude":-37.0719186,
+        "state":"SE",
+        "id":"49038050-23041",
+        "complement":"",
+        "latitude":-10.9969613,
+        "neighborhood":"Aeroporto",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Abdias Bezerra",
+        "restrictions":[],
+        "number":"49060010",
+        "city":"Aracaju",
+        "longitude":-37.0669032,
+        "state":"SE",
+        "id":"49060010-23041",
+        "complement":"",
+        "latitude":-10.8962822,
+        "neighborhood":"Palestina",
+        "blockDelivery":false
+    },
+    {
+        "address":"Rua Abdias Nascimento",
+        "restrictions":[],
+        "number":"49046050",
+        "city":"Aracaju",
+        "longitude":-37.0636073,
+        "state":"SE",
+        "id":"49046050-23041",
+        "complement":"",
+        "latitude":-10.932776,
+        "neighborhood":"Luzia",
+        "blockDelivery":false
+    }
+]
